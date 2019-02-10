@@ -27,6 +27,7 @@ function sayHiToGrandma(string) {
   
   if(uppercase.toUpperCase() === uppercase) // true
   {
+<<<<<<< HEAD
     return loud 
   }
 
@@ -43,6 +44,23 @@ function sayHiToGrandma(string) {
 
  
 
+=======
+    return loud;
+  }
+
+  if(lowercase.toLowerCase === string) // true
+  {
+    return lowercase;
+  }
+ 
+  if (love === string)
+  {
+  return back
+  }
+
+ 
+mixedCase.toLowerCase() === mixedCase // false
+>>>>>>> 200296a56accb3bab4a0ea611810f7e4056e66be
  
 mixedCase.toUpperCase() === mixedCase // false
 }
