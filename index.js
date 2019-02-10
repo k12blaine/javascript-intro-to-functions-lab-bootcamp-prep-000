@@ -18,15 +18,15 @@ function sayHiToGrandma(string)
 {
   var uppercase = "HELLO!"
  
-ase.toUpperCase() === uppercase // true
-upperc 
-var lowercase = 'hello!'
- 
-lowercase.toLowerCase() === lowercase // true
- 
-var mixedCase = 'Hi there!'
- 
-mixedCase.toLowerCase() === mixedCase // false
-
-mixedCase.toUpperCase() === mixedCase // false
+  uppercase.toUpperCase() === uppercase // true
+  
+  var lowercase = 'hello!'
+   
+  lowercase.toLowerCase() === lowercase // true
+   
+  var mixedCase = 'Hi there!'
+   
+  mixedCase.toLowerCase() === mixedCase // false
+  
+  mixedCase.toUpperCase() === mixedCase // false
 }
